@@ -1,0 +1,56 @@
+body {
+  font-size: small;
+  font-family: Verdana, Helvetica, Arial;
+  line-height: 1.6em;
+}
+
+h1,h2 {
+  color:#007e7e;
+}
+.elixirs h2 {
+  color:black;
+}
+.elixirs h3 {
+  color: #d12c47;
+}
+.elixirs {
+  line-height: 1;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+
+h2 {
+  font-size: 1.3em;
+}
+
+#guarantee {
+  border: 1px dashed white;
+  padding: 25px;
+  margin:  30px;
+  line-height: 1.9em;
+  font-style: oblique;
+  color: #444444;
+  font-family: Georgia, 'Times New Roman';
+  background: #a7cece url(images/background.gif) no-repeat;
+  background-position: top left;
+  padding: 25px;
+  padding-left: 80px;
+  margin-right: 250px;
+}
+p {
+  border: white dashed;
+  border-top-right-radius: 2em;
+  border-bottom-left-radius: 2em;
+}
+.elixirs {
+  border: thin solid #007e7e;
+  width: 200px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  margin-left: 20px;
+  background: white url(images/cocktail.gif) repeat-x;
+  text-align: center;
+}
