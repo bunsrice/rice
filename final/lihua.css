@@ -7,15 +7,19 @@
 .title {
   color: rgb(168, 184, 175);
   padding-left: 105px;
-  line-height: 41.5px;
+  line-height: 20px;
   font-size: 13.5px;
   box-sizing: border-box;
+}
+.ewha{
+height:30px;
+width:17px;
 }
 .instagram {
   background-image: url("./images/ico-instagram.png");
   background-repeat: no-repeat;
   width: 17px;
-  height: 17px;
+  height: 40px;
   display: inline-block;
   vertical-align: middle;
 }
@@ -23,7 +27,7 @@
   background-image: url("./images/ico-facebook.png");
   background-repeat: no-repeat;
   width: 17px;
-  height: 17px;
+  height: 40px;
   display: inline-block;
   vertical-align: middle;
 }
@@ -31,7 +35,7 @@
   background-image: url("./images/ico-twitter.png");
   background-repeat: no-repeat;
   width: 17px;
-  height: 17px;
+  height: 40px;
   display: inline-block;
   vertical-align: middle;
 }
@@ -39,7 +43,7 @@
   background-image: url("./images/ico-blog.png");
   background-repeat: no-repeat;
   width: 17px;
-  height: 17px;
+  height: 40px;
   display: inline-block;
   vertical-align: middle;
 }
@@ -47,7 +51,7 @@
   background-image: url("./images/ico-youtube.png");
   background-repeat: no-repeat;
   width: 17px;
-  height: 17px;
+  height: 40px;
   display: inline-block;
   vertical-align: middle;
 }
@@ -79,7 +83,7 @@
 }
 .part .input_style {
   width: 284px;
-  height: 41px;
+  height: 44px;
   border: 1px solid #ccc;
 }
 .part1 .button_style {
@@ -99,7 +103,7 @@
   padding: 10px 25px 10px 0;
   text-decoration: none;
 }
-.part1 .menu_box .avatar {
+.part1 .menu_box .enter {
   background: url("./images/ico-login.png") no-repeat right center;
   color: #191919;
 }
